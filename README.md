@@ -1,0 +1,1 @@
+Want to add some interactivity to your website? Build a simple calculator using HTML, CSS, and JavaScript. This project will teach you how to capture user input, perform calculations, and display the results on your web page. It's a great way to start working with user interactions and basic JavaScript functions.
